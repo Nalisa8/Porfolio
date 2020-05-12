@@ -6,6 +6,11 @@
 .title2 {
     color:
         font-style: italic;
+}
 
-
+.home {
+  background: linear-gradient(
+    175deg,
+    grey,
+    #ffcccc);;
 }

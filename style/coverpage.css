@@ -1,10 +1,39 @@
 
 /* design tittle */
 body{
-  background-color: rgb(128,128,128);
+  background:linear-gradient(
+    35deg,
+    grey,
+    #ffcccc);
+  font-family: Times;
+
 }
 
+.natacha{
+  font-size: 20px;
+  font-family: Times;
+  margin-left: 40px;
+  color: #696969;
+}
 
+.portfolio{
+  font-size: 35px;
+  font-stretch:ultra-expanded;
+  font-weight: bold;
+ margin-left: 50px;
+ text-transform: uppercase;
+
+}
+
+.border{
+  border-style: outset;
+  padding: 30px;
+  width: 380px;
+  padding-bottom: 50px;
+  margin: 20%;
+  margin-left: 33%;
+
+}
 
 
 
