@@ -1,12 +1,12 @@
 
 /* design tittle */
 body{
-  background:linear-gradient(
+  /* background:linear-gradient(
     35deg,
     grey,
     #ffcccc);
-  font-family: Times;
-
+  font-family: Times; */
+background-color: black;
 }
 
 .natacha{
@@ -32,6 +32,8 @@ body{
   padding-bottom: 50px;
   margin: 20%;
   margin-left: 33%;
+  background-color: white;
+
 
 }
 
